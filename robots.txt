@@ -1,11 +1,11 @@
-# Robots.txt for hotrodichvucong.com
+# Robots.txt for taohoso.com
 # https://www.robotstxt.org/robotstxt.html
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://hotrodichvucong.com/sitemap.xml
+Sitemap: https://taohoso.com/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
